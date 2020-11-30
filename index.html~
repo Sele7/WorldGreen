@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+
+<title></title>
+</head>
+<body>
+<script src="script.js" type="text/javascript">
+ <div align="center">
+  <h1 id="saludo">Hola Mundo Unicodemy</h1>
+  <p>Nombre: <input type="text" id="nombre"></p>
+  <button id="button">Haz click aqui</button>
+  </div>
+
+
+  </br>
+  </br>
+  <div align="center">
+  <h1 >Calculadora</h1>
+  <p>Introduce Numero 1: <input type="text" id="dato_1"></p>
+  <p>Introduce Numero 2: <input type="text" id="dato_2"></p>
+
+  <button id="operaciones">Calcular!!!!</button>
+  </div>
+  <p align="center">Suma: <input type="text" id="suma" readonly="readonly"/> Resta: <input type="text" id="resta" readonly="readonly"></p> 
+  <p align="center">Multiplicación: <input type="text" id="multi" readonly="readonly"/> División: <input type="text" id="divi" readonly="readonly"/></p> 
+</script>
+</body>
+</html>

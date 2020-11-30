@@ -1,0 +1,93 @@
+body {font-family: "Times New Roman";
+background: url(https://previews.123rf.com/images/da6kin/da6kin1604/da6kin160400332/55215778-interminable-patr%C3%B3n-lindo-con-flores-hojas-y-mariposas-fondo-decorativo-para-sus-dise%C3%B1os-imagen-del-vector.jpg);
+
+}
+
+.menu{
+	list-style: none;
+	padding: 30px;
+	background: #083927;
+	width: 100%;
+	max-width: 700px;
+	margin: auto;
+	position: fixed, center;
+
+
+}
+
+.menu li a{
+	text-decoration: none;
+	text-align: justify-all;
+	color: white;
+	font-size: 25px;
+	padding: 10px;
+	display: inline-block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: #ef9894;
+}
+.secciones{
+	width: 100%;
+	background: #2F972062;
+	opacity: 100%
+}
+
+.secciones article{
+	padding: 500px;
+}
+
+.secciones article p{
+	text-align: justify;
+	color: #800000
+	font-size:20px;
+}
+
+.secciones article{
+		padding: 30px;
+	}
+
+
+p{
+	font-size: 25px;
+
+	
+}
+h2{
+	font-size: 40px;
+text-decoration-style: none;
+	font-family: "Showcard Gothic";
+	color: #085948;
+}
+
+h1{
+	font-size: 47px;
+	text-decoration-style:none;
+	font-family: "Ravie";
+	color: #083948;
+}
+
+.imagen
+{
+	float:right;
+	border:5px solid #456464 ;
+	padding:10px;
+	margin: 10px;
+
+}
+.videos
+{
+	float: left;
+	margin: 10px;
+}
+
+.lista
+{
+	
+
+	}
